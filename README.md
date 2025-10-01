@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou a Camila Lima Sousa!</h1>
 
 <p align="center">
-  <strong>Estudante de Sistemas para Internet na UNIPÊ</strong> <br>
+  <strong>Estudante de Sistemas para Internet e de Ciências da Computação </strong> <br>
   Em transição de carreira para a área de <strong>Tecnologia da Informação</strong> <br>
   João Pessoa - PB, Brasil
 </p>
