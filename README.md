@@ -10,7 +10,7 @@
 
 ### 💻 Sobre mim
 
-Atualmente, estou focada em aprender e aplicar conhecimentos em **banco de dados (SQL)**, **automação de processos com Make.com**, além de explorar linguagens como **PHP**, **Python** e práticas de **segurança da informação**. Gosto de resolver problemas, criar soluções úteis e estou sempre buscando aprender mais.
+Atualmente, estou focada em aprender e aplicar conhecimentos em **banco de dados (SQL)**, **automação de processos com Make.com**, além de explorar linguagens como **JAVA**, **Python** **JS** e práticas de **segurança da informação**. Gosto de resolver problemas, criar soluções úteis e estou sempre buscando aprender mais.
 
 ---
 
@@ -22,6 +22,10 @@ Atualmente, estou focada em aprender e aplicar conhecimentos em **banco de dados
 - ⚙️ Make (Integromat)
 - 🔒 Conceitos de DevSecOps e segurança da informação
 - 🖥️ Jekyll (para sites estáticos)
+- JAVA
+- JS
+- REACT
+- NODE.JS
 
 ---
 
