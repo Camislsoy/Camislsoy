@@ -41,7 +41,7 @@ Atualmente, estou focada em aprender e aplicar conhecimentos em **banco de dados
 
 ### 🌐 Contato
 
-- 📧 Email: camilalimasousa@hotmail.com  
+- 📧 Email: camila.limasousa@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/camila-lima-sousa-/)
 
 ---
