@@ -1,110 +1,69 @@
-<h1 align="center">👋 Olá, eu sou a Camila Lima Sousa!</h1>
+<h1 align="center">👩‍💻 Camila Lima Sousa</h1>
 
 <p align="center">
-  <strong>Estudante de Sistemas para Internet e de Ciências da Computação </strong> <br>
-  Em transição de carreira para a área de <strong>Tecnologia da Informação</strong> <br>
-  João Pessoa - PB, Brasil
+  🎓 Systems for Internet Graduate  
+  📚 Computer Science Student  
+  💻 Focused on Frontend Development  
+  📍 João Pessoa, Brazil
 </p>
 
 ---
 
-### 💻 Sobre mim
+## 👋 About Me
 
-Atualmente, estou focada em aprender e aplicar conhecimentos em **banco de dados (SQL)**, **automação de processos com N8N**, além de explorar linguagens como **JAVA**, **Python**,  **JS** e práticas de **segurança da informação**. Gosto de resolver problemas, criar soluções úteis e estou sempre buscando aprender mais.
+I am a dedicated Computer Science student with a strong academic foundation in web development.
 
----
+Graduated in Systems for Internet and currently pursuing a degree in Computer Science, I am building solid knowledge in modern web technologies and software development principles.
 
-### 🛠️ Tecnologias que estou estudando:
+My main focus is Frontend Development, especially working with:
 
-- 🗃️ SQL (consultas, estruturação e análise de dados)
-- 🐍 Python
-- 🌐 PHP e HTML
-- ⚙️ Make (Integromat)
-- 🔒 Conceitos de DevSecOps e segurança da informação
-- 🖥️ Jekyll (para sites estáticos)
-- JAVA
-- JS
-- REACT
-- NODE.JS
+- JavaScript (ES6+)
+- React
+- Node.js
+- SQL
+
+I am continuously improving through projects, hands-on practice, and technical studies.
 
 ---
 
-### 📈 GitHub Stats
+## 🎯 Current Focus
+
+- Strengthening React fundamentals  
+- Improving problem-solving skills  
+- Deepening knowledge in databases (SQL)  
+- Understanding backend integration  
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+HTML5 | CSS3 | JavaScript | React  
+
+### Backend & Database
+Node.js | SQL | PHP | Java (fundamentals)  
+
+### Tools
+Git | GitHub | N8N | Python  
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Camislsoy&show_icons=true&theme=dracula&hide=issues" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camislsoy&layout=compact&theme=dracula" alt="Top Langs" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Camislsoy&show_icons=true&theme=dracula&hide=issues"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camislsoy&layout=compact&theme=dracula"/>
 </p>
 
 ---
 
-### 🌐 Contato
+## 🌎 Contact
 
-- 📧 Email: camila.limasousa@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/camila-lima-sousa-/)
+- 💼 LinkedIn: https://www.linkedin.com/in/camila-lima-sousa-/
+- 📧 Email: camila.limasousa@gmail.com
 
 ---
 
-
-
-
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-
 <p align="center">
-  ✨ Obrigada por visitar meu perfil!
+  Currently seeking internship opportunities in Frontend Development 🌱
 </p>
-<br/>
-<br/>
-
-
