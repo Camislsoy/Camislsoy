@@ -50,10 +50,8 @@ Git | GitHub | N8N | Python
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Camislsoy&show_icons=true&theme=dracula&hide=issues"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camislsoy&layout=compact&theme=dracula"/>
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Camislsoy&theme=dracula" />
+
 
 ---
 
